@@ -1,0 +1,7 @@
+.header {
+  background-image: url("../../../assets/image/234.jpg");
+  width: 100%;
+  box-sizing: content-box;
+  background-size: cover;
+  height: 120px;
+}
